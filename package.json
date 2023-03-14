@@ -12,6 +12,6 @@
       "name": "meronmks",
       "url": "https://github.com/meronmks/"
     },
-    "license": "WTFPL",
-    "private": true
+    "repo": "https://meronmks.github.io/vpm-repos/vpm.json",
+    "license": "WTFPL"
   }
