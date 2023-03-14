@@ -1,0 +1,17 @@
+{
+    "name": "com.meronmks.addpresuffixwindow",
+    "version": "1.2.0",
+    "displayName": "AddPreSuffixWindow",
+    "unity": "2018.4",
+    "description": "",
+    "keywords": [
+      "Tool",
+      "Unity"
+    ],
+    "author": {
+      "name": "meronmks",
+      "url": "https://github.com/meronmks/"
+    },
+    "license": "MIT",
+    "private": true
+  }
